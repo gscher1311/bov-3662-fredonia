@@ -1,0 +1,85 @@
+{
+  "property": {
+    "address": "3662 Fredonia Dr, Studio City, CA 90068",
+    "apn": "Unknown",
+    "units": 4,
+    "building_sf": 2530,
+    "lot_sf": 3933,
+    "year_built": "1962/2025",
+    "zoning": "Unknown"
+  },
+  "pricing": {
+    "list_price": 1750000,
+    "price_per_unit": 437500.0,
+    "price_per_sf": 691.7
+  },
+  "current_performance": {
+    "rent_roll": {
+      "2BR_2BA_1": 3302,
+      "2BR_2BA_2": 2418,
+      "Studio_1": 2095,
+      "Studio_ADU": 1500
+    },
+    "monthly_rent": 9315,
+    "annual_rent": 111780,
+    "vacancy_rate": 0.04,
+    "vacancy_loss": 4471.2,
+    "effective_gross_income": 107308.8,
+    "operating_expenses": {
+      "property_tax": 19250.0,
+      "insurance": 3530,
+      "utilities": 4080,
+      "repairs_maintenance": 10730.88,
+      "management": 3219.26,
+      "reserves": 1200,
+      "total": 42010.14,
+      "expense_ratio": 39.15
+    },
+    "net_operating_income": 65298.66,
+    "cap_rate": 3.73,
+    "grm": 15.66
+  },
+  "pro_forma_performance": {
+    "rent_roll": {
+      "2BR_2BA_1": 3500,
+      "2BR_2BA_2": 3500,
+      "Studio_1": 2400,
+      "Studio_ADU": 1800
+    },
+    "monthly_rent": 11200,
+    "annual_rent": 134400,
+    "vacancy_rate": 0.04,
+    "vacancy_loss": 5376.0,
+    "effective_gross_income": 129024.0,
+    "operating_expenses": {
+      "property_tax": 19250.0,
+      "insurance": 3530,
+      "utilities": 4080,
+      "repairs_maintenance": 12902.4,
+      "management": 3870.72,
+      "reserves": 1200,
+      "total": 44833.12,
+      "expense_ratio": 34.75
+    },
+    "net_operating_income": 84190.88,
+    "cap_rate": 4.81,
+    "grm": 13.02
+  },
+  "value_add_opportunity": {
+    "monthly_upside": 1885,
+    "annual_upside": 22620,
+    "noi_upside": 18892.22,
+    "upside_percentage": 20.24
+  },
+  "metadata": {
+    "generated_at": "2025-10-04T21:26:22.010591Z",
+    "underwriting_standard": "LAAA Buyer's Perspective",
+    "assumptions": {
+      "vacancy_rate": "4% (conservative buyer assumption)",
+      "property_tax": "1.10% of purchase price (reassessed)",
+      "repairs_maintenance": "10% of EGI (conservative)",
+      "management": "3% of EGI",
+      "reserves": "$300 per unit annually"
+    }
+  }
+}
