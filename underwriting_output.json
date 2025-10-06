@@ -9,9 +9,9 @@
     "zoning": "Unknown"
   },
   "pricing": {
-    "list_price": 1750000,
-    "price_per_unit": 437500.0,
-    "price_per_sf": 691.7
+    "list_price": 1695000,
+    "price_per_unit": 423750.0,
+    "price_per_sf": 670.0
   },
   "current_performance": {
     "rent_roll": {
@@ -26,18 +26,18 @@
     "vacancy_loss": 4471.2,
     "effective_gross_income": 107308.8,
     "operating_expenses": {
-      "property_tax": 19250.0,
+      "property_tax": 18645.0,
       "insurance": 3530,
       "utilities": 4080,
       "repairs_maintenance": 10730.88,
       "management": 3219.26,
       "reserves": 1200,
-      "total": 42010.14,
-      "expense_ratio": 39.15
+      "total": 41405.14,
+      "expense_ratio": 38.59
     },
-    "net_operating_income": 65298.66,
-    "cap_rate": 3.73,
-    "grm": 15.66
+    "net_operating_income": 65903.66,
+    "cap_rate": 3.89,
+    "grm": 15.16
   },
   "pro_forma_performance": {
     "rent_roll": {
@@ -52,24 +52,24 @@
     "vacancy_loss": 5376.0,
     "effective_gross_income": 129024.0,
     "operating_expenses": {
-      "property_tax": 19250.0,
+      "property_tax": 18645.0,
       "insurance": 3530,
       "utilities": 4080,
       "repairs_maintenance": 12902.4,
       "management": 3870.72,
       "reserves": 1200,
-      "total": 44833.12,
-      "expense_ratio": 34.75
+      "total": 44228.12,
+      "expense_ratio": 34.28
     },
-    "net_operating_income": 84190.88,
-    "cap_rate": 4.81,
-    "grm": 13.02
+    "net_operating_income": 84795.88,
+    "cap_rate": 5.0,
+    "grm": 12.61
   },
   "value_add_opportunity": {
     "monthly_upside": 1885,
     "annual_upside": 22620,
     "noi_upside": 18892.22,
-    "upside_percentage": 20.24
+    "upside_percentage": 28.67
   },
   "metadata": {
     "generated_at": "2025-10-04T21:26:22.010591Z",
